@@ -5,6 +5,9 @@ Some websites won't allow this context menu entry (or need to open a second cont
 
 This extension make stuff work easily even on sites like YouTube or Twitch.
 
+## Installation
+Install the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/chrome-pop-out/jcgacckndmapfdcccebjlhglchkbfkjk?authuser=2)
+
 ## Usage
 Just focus the browser tab containing the video and click on the extension icon to the right of your address bar.
 
