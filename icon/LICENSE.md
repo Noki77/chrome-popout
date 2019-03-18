@@ -1,0 +1,1 @@
+The [icon.svg](icon.svg) file (slightly modified) is originally created as a part of the [Font Awesome](https://fontawesome.com) project and licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
